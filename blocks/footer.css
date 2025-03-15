@@ -1,0 +1,18 @@
+.footer {
+  font-family: Inter;
+  font-weight: 700;
+  color: #fff;
+  background: rgb(20, 20, 20);
+  text-align: center;
+  height: 5vh;
+}
+
+.footer__link {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.2s ease-in-out;
+}
+
+.footer__link:hover {
+  color: rgb(91, 91, 91);
+}
